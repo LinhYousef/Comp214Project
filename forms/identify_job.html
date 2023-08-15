@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Identify Job Description</title>
+    <link rel="stylesheet" type="text/css" href="../styles/styles.css">
+</head>
+<body>
+    <h1>Identify Job Description</h1>
+    <form action="/scripts/get_job_description.php" method="post">
+        <label for="jobId">Job ID:</label>
+        <input type="text" id="jobId" name="jobId" required><br>
+
+        <button type="submit">Get Job Description</button>
+    </form>
+
+    <div id="jobDescription"></div>
+</body>
+</html>

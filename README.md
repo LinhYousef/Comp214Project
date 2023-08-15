@@ -1,15 +1,15 @@
 # Comp214Project
 Latest Project Directory
 
-Project Description and Brief:
-/* By: Linh Yousef*/
+**Project Description and Brief:
+/* By: Linh Yousef*/**
 
-Human Resources Management System (HRMS) Application
+**Human Resources Management System (HRMS) Application**
 
 **Introduction:**
 The Human Resources Management System (HRMS) Application is a comprehensive solution designed to streamline HR processes and improve efficiency within an organization. This web-based application facilitates employee management, job tracking, salary control, in addition to other features.
 
-Key Features:
+_**Key Features:**_
 
 **Employee Hiring:**
 - A user-friendly interface allows HR personnel to input new employee details.
